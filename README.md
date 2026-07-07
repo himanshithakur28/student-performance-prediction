@@ -49,7 +49,7 @@ The models were evaluated using appropriate regression metrics, including:
 Different machine learning models were compared to identify the model that achieved the best predictive performance.
 
 ## Project Structure
-Student_Performance_Prediction.ipynb
+Student Performance.ipynb
 ## Future Improvements
 
 - Perform hyperparameter tuning
